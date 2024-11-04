@@ -1,0 +1,8 @@
+old_01_tratamentodados.ipynb
+old_02_eda.ipynb
+old_03_preprocessing.ipynb
+functions.py
+funcoes.py
+*.csv
+env/
+__pycache__
